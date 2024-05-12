@@ -3,8 +3,11 @@
 I'm Danh Nguyen, a full-time freelance developer
 
 👨‍💻 Working remotely since 2016
+
 🚀 Enthusiastic guy in blockchain
+
 🔭 Building my profile on Web3
+
 🌱 I’m currently learning Kubernetes
 
 ## My skills
